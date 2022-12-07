@@ -1,4 +1,6 @@
 ## Emergence of atypical epithelial features with age limit thymic function at baseline and after injury
+*Anastasia I. Kousa†, Lorenz Jahn†, Kelin Zhao† Angel E. Flores, David Granadier, Kirsten Cooper, Julie M Sheridan, Andri Lemarquis, Lisa Sikkema, Kimon V. Argyropoulos, Jennifer Tsai, Amina Lazrak, Katherine Nichols, Nichole Lee, Florent Malard, Hana Andrlova, Antonio L.C. Gomes, Enrico Velardi, Salma Youssef, Marina B. da Silva, Melissa Docampo, Roshan Sharma, Linus Mazoutis, Verena C. Wimmer, Kelly L Rogers, Manu Setty, Dana Pe'er, Nancy R. Manley, Daniel H.D. Gray‡,  Jarrod A. Dudakov‡, Marcel R.M. van den Brink‡ 
+
 
 ### Abstract 
 
