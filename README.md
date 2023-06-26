@@ -1,4 +1,5 @@
 ## Age-related epithelial defects limit thymic function and regeneration 
+Anastasia I. Kousa1,2†, Lorenz Jahn1†, Kelin Zhao3,4† Angel E. Flores5, David Granadier2, Kirsten Cooper2, Julie M. Sheridan3,4, Andri Lemarquis1, Lisa Sikkema6,7, Kimon V. Argyropoulos1, Jennifer Tsai1, Amina Lazrak1, Katherine Nichols1, Nichole Lee1, Romina Ghale1, Florent Malard1,8, Hana Andrlova1, Antonio L.C. Gomes1, Enrico Velardi1,9, Salma Youssef1, Marina B. da Silva1, Melissa Docampo10, Roshan Sharma6, Linas Mazutis6, Verena C. Wimmer3,4, Kelly L. Rogers3,4, Susan DeWolf11, Brianna Gipson1, Manu Setty6,12, Dana Pe'er6, Nancy R. Manley5, Daniel H.D. Gray3,4*‡,  Jarrod A. Dudakov2,13*‡, Marcel R.M. van den Brink1,10,11*‡ 
 
 ### SUMMARY
 
