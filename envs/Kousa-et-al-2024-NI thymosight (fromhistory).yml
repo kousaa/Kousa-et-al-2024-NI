@@ -1,9 +1,0 @@
-name: thymosight
-channels:
-  - defaults
-dependencies:
-  - python=3.11
-  - notebook
-  - python-igraph
-  - scanpy
-  - leidenalg
