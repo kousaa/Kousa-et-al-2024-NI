@@ -1,4 +1,3 @@
-name: KousaJahnZhao_et_al_2023
 channels:
   - conda-forge
   - defaults
