@@ -9,6 +9,4 @@ This repository includes Jupyter notebooks adapted from the [shunPykeR](https://
 
 Processed data to be used with these notebooks have been deposited in NCBI's Gene Expression Omnibus (GEO) and can be accessed through the GEO SuperSeries accession number [GEO240020](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE240020).
 
-The app.R code that launches the ThymoSight app together with the python notebooks used to create consistent annotation fields, reanalyze and integrate the public datasets with ours have been submitted on GitHub (https://github.com/FredHutch/thymosight). The server hosting the interactive app can be accessed at www.thymosight.org.
-
-<hr>
+The app.R code that launches the ThymoSight app together with the python notebooks used to create consistent annotation fields, reanalyze and integrate the public datasets with ours have been submitted on the [thymosight](https://github.com/FredHutch/thymosight) GitHub repository . The server hosting the interactive app can be accessed at [www.thymosight.org](www.thymosight.org). The re-analyzed public datasets with added metadata that are used as input for the ThymoSight app are available [here](10.5281/zenodo.12516405).
