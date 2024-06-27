@@ -8,3 +8,5 @@ The thymus is essential for establishing adaptive immunity yet undergoes age-rel
 This repository includes Jupyter notebooks adapted from the [shunPykeR](https://github.com/kousaa/shunPykeR) GitHub repository.
 
 Processed data to be used with these notebooks have been deposited in NCBI's Gene Expression Omnibus (GEO) and can be accessed through the GEO SuperSeries accession number [GEO240020](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE240020).
+
+<hr>
