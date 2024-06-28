@@ -3,7 +3,6 @@ Anastasia I. Kousa<sup>1,2,3†</sup>, Lorenz Jahn<sup>1†</sup>, Kelin Zhao<su
 	
 
 <sup>1</sup>Program in Immunology, Memorial Sloan Kettering Cancer Center, New York, NY, USA
-
 <sup>2</sup>Translational Science and Therapeutics Division, and Immunotherapy Integrated Research Center, Fred Hutchinson Cancer Center, Seattle WA USA 98109
 
 <sup>3</sup>City of Hope Los Angeles and National Medical Center, Duarte, CA USA 91010
