@@ -16,7 +16,8 @@ Anastasia I. Kousa<sup>1,2,3†</sup>, Lorenz Jahn<sup>1†</sup>, Kelin Zhao<su
 <sup>13</sup>Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, USA  
 <sup>14</sup>Basic Sciences Division & Translational Data Science Integrated Research Center, Fred Hutchinson Cancer Research Center, Seattle WA 98109  
 <sup>15</sup>Human Vaccine Institute, Duke University, Durham NC 27710  
-<sup>16</sup>School of Life Sciences, Arizona State University, Phoenix, AZ, USA  
+<sup>16</sup>School of Life Sciences, Arizona State University, Phoenix, AZ, USA
+
 <sup>†, ‡, §</sup> These authors contributed equally to this work.
 
 
