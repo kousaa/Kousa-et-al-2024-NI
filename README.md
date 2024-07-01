@@ -18,8 +18,8 @@ Anastasia I. Kousa<sup>1,2,3†</sup>, Lorenz Jahn<sup>1†</sup>, Kelin Zhao<su
 <sup>15</sup>Human Vaccine Institute, Duke University, Durham, NC, USA 
 <sup>16</sup>School of Life Sciences, Arizona State University, Phoenix, AZ, USA
 
-<sup>†, ‡, §</sup> These authors contributed equally to this work.  
-<sup>*</sup> Corresponding authors: jdudakov@fredhutch.org; dgray@wehi.edu.au; mvandenbrink@coh.org
+<sup>†, ‡, §</sup>These authors contributed equally to this work.  
+<sup>*</sup>Corresponding authors: jdudakov@fredhutch.org; dgray@wehi.edu.au; mvandenbrink@coh.org
 
 <hr>
 
