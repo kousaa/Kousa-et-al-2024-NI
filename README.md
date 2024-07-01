@@ -15,7 +15,7 @@ Anastasia I. Kousa<sup>1,2,3†</sup>, Lorenz Jahn<sup>1†</sup>, Kelin Zhao<su
 <sup>12</sup>Division of Pediatric Hematology and Oncology, Bambino Gesù Children’s Hospital, IRCCS, Rome, 00146, Italy  
 <sup>13</sup>Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, USA  
 <sup>14</sup>Basic Sciences Division & Translational Data Science Integrated Research Center, Fred Hutchinson Cancer Center, Seattle, WA, USA  
-<sup>15</sup>Human Vaccine Institute, Duke University, Durham, NC, USA 
+<sup>15</sup>Human Vaccine Institute, Duke University, Durham, NC, USA  
 <sup>16</sup>School of Life Sciences, Arizona State University, Phoenix, AZ, USA
 
 <sup>†, ‡, §</sup>These authors contributed equally to this work.  
